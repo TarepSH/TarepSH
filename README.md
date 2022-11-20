@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TarepSH
 - 👀 I’m interested in MIS and Data
-- 🌱 I’m currently learning Data warehousing 
 - 💞️ I’m looking to collaborate on Data in humanitarian work 
 - 📫 How to reach me @tarepsh 
 
